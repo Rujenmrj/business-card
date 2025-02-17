@@ -179,9 +179,6 @@ private fun ProfileName() {
     )
 }
 
-
-
-
 @Preview(showBackground = false, showSystemUi = true)
 @Composable
 fun FullPreview() {
